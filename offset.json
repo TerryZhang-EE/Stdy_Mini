@@ -48,7 +48,7 @@
   "FloatCurves": "0x38",
   "GNames": "0x105C5628",
   "GNamesAdd": "0x0",
-  "GNamesPtr": "0x0",
+  "GNamesPtr": "0x10",
   "GObjects": "0x10324B70",
   "GameInstance": "0x168",
   "GameState": "0x118",
