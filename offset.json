@@ -171,7 +171,7 @@
   "TrainingMapGrid": "0x5E0",
 
   "Gender": "0xAC8",
-
+  
   "MouseX": "0x413E",
   "MouseY": "0x413F",
 
@@ -185,11 +185,4 @@
   "EncryptedHealthOffset": "0x994",
   "DecryptedHealthOffset": "0x990",
 
-  //"DroppedItemGroupCount": "0x310",
-  //"GObjects": "0x10324B70",
-  //"MapGrid": "0x490",
-  //"Position": "0x220",
-  //"PubgIdData": "0xBA0",
-  //"RecentlyRendered": "0xBB0",
-  //"ActorsForGC": "0x278"
 }
