@@ -171,24 +171,31 @@
   "MouseX": "0x413F",
   "MouseY": "0x413E",
 
-  "Gender": "0xAC8", //未找到
+  "Gender": "0xAC8", 
 
-  "SPOOFCALL": "0x266CA15", //未找到
-  "LineTraceSingle": "0xCFF9548", //未找到
-  "HOOK": "0xFED0550", //未找到
-  "HOOK_TWO": "0x464A13" //未找到
+  "SPOOFCALL": "0x266CA15", 
+  "LineTraceSingle": "0xCFF9548", 
+  "HOOK": "0xFED0550", 
+  "HOOK_TWO": "0x464A13"
+}
 
+//"ActorsForGC": "0x278",
+//"ChunkSize": "0x40A0",
+//"DecryptedHealthOffset": "0x990",
+//"EncryptedHealthOffset": "0x994",
+//"GObjects": "0x10324B70",
+//"MapGrid": "0x490",
+//"Position": "0x220",
+//"PubgIdData": "0xBA0",
+//"RecentlyRendered": "0xBB0",
+//"bEncryptedHealth": "0x995",
+//"GNamesAdd": "0x0"
 
-  //"ActorsForGC": "0x278",
-  //"ChunkSize": "0x40A0",
-  //"DecryptedHealthOffset": "0x990",
-  //"EncryptedHealthOffset": "0x994",
-  //"GObjects": "0x10324B70",
-  //"MapGrid": "0x490",
-  //"Position": "0x220",
-  //"PubgIdData": "0xBA0",
-  //"RecentlyRendered": "0xBB0",
-  //"bEncryptedHealth": "0x995",
-  //"GNamesAdd": "0x0"
+  
+//"Gender": "0xAC8", //未找到
 
-}  
+//"SPOOFCALL": "0x266CA15", //未找到
+//"LineTraceSingle": "0xCFF9548", //未找到
+//"HOOK": "0xFED0550", //未找到
+//"HOOK_TWO": "0x464A13" //未找到
+
